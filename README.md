@@ -9,7 +9,7 @@ python pgm_app.py C:\pgm_app\Python_Soluiton\InputFiles  (i.e. path to the input
 The output file shall be generated inside the input directory
 
 
-## Possible improvements to the scrript:
+## Possible improvements to the script:
 
 - Asserting that all pixels in each pgm does not exceed the specified max gray value  
-- Assert that all files have the same magic number  
+- Assert that all files have the same parameters (Magic number, Height and Width)    
