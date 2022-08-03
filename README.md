@@ -13,3 +13,5 @@ The output file shall be generated inside the input directory
 
 - Asserting that all pixels in each pgm does not exceed the specified max gray value  
 - Assert that all files have the same parameters (Magic number, Height and Width)    
+
+The script has been checked for PEP8 requirements   
